@@ -30,6 +30,12 @@ If you choose **_yes_**, the program restarts the cycle. If you choose **_no_**,
 # Files used
 ###### Include the files used
 
+```
+chicago.csv
+new_york_city.csv
+washington.csv
+```
+
 # Credits
 ###### It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
