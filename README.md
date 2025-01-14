@@ -43,6 +43,8 @@ Broder, Joe McCann and Martin. “Online Markdown Editor - Dillinger, the Last M
 
 “MLA Works Cited: Electronic Sources (Web Publications).” MLA Works Cited: Electronic Sources - Purdue OWL® - Purdue University, owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_electronic_sources.html. Accessed 12 Jan. 2025.
 
+ryndrynd. “Do You Push Every Single Commit?” Stack Overflow, 1 May 1957, stackoverflow.com/questions/10565217/do-you-push-every-single-commit. Accessed 14 Jan. 2025.
+
 “Udacity Git Commit Message Style Guide.” Udacity Nanodegree Style Guide, udacity.github.io/git-styleguide/. Accessed 12 Jan. 2025.
 
 Zkat. “Zkat/Can.Viewify: Require() Mustache and EJS Modules as Compiled CanJS Views.” GitHub, github.com/zkat/can.viewify. Accessed 13 Jan. 2025.
