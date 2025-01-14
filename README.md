@@ -39,6 +39,8 @@ washington.csv
 # Credits
 ###### It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+Ayushi George. “How to Open .MD File in Gitbash?” Stack Overflow, 1 Aug. 1967, stackoverflow.com/questions/73230354/how-to-open-md-file-in-gitbash. Accessed 14 Jan. 2025.
+
 Broder, Joe McCann and Martin. “Online Markdown Editor - Dillinger, the Last Markdown Editor Ever.” Online Markdown Editor - Dillinger, the Last Markdown Editor Ever., dillinger.io/. Accessed 12 Jan. 2025. 
 
 “MLA Works Cited: Electronic Sources (Web Publications).” MLA Works Cited: Electronic Sources - Purdue OWL® - Purdue University, owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_electronic_sources.html. Accessed 12 Jan. 2025.
