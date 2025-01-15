@@ -102,7 +102,7 @@ def station_stats(df):
     start_time = time.time()
 
     # display most commonly used start station
-    #common_start_section = pd.dat
+    # common_start_section = pd.dat
     df['Start Station'].value_counts()
     commonly_used_start_station = df['Start Station'].mode()[0]   # finds most common start station
     print("Most Common Start Station:", commonly_used_start_station)
